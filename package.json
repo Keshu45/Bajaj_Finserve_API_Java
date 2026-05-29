@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "echo \"This is a pure Java Spring Boot backend project. Please export the project or deploy it via the included Dockerfile/render.yaml\" && sleep 86400",
+    "build": "echo \"Java Backend. Build managed by Maven.\"",
+    "start": "echo \"Java Backend. Start managed by Maven.\""
+  }
+}
